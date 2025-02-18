@@ -6,4 +6,10 @@ This data analysis project aims to provide  insights into the patients waiting l
 
 ### Data Sources
 
-In-Out patient Data: The primary dataset used for this Analysis is the ....containing detailed information about the hospital
+In-Out patient Data: The primary dataset used for this Analysis is the ....containing detailed information about the hospital.
+
+### Tools Used  
+ Power BI  
+- **Power Query** (for data cleaning & transformation)  
+- **DAX** (for calculations & custom metrics)  
+- **Power BI Visualizations** (for reports & dashboards) 
