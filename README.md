@@ -12,4 +12,9 @@ In-Out patient Data: The primary dataset used for this Analysis is the ....conta
  Power BI  
 - **Power Query** (for data cleaning & transformation)  
 - **DAX** (for calculations & custom metrics)  
-- **Power BI Visualizations** (for reports & dashboards) 
+- **Power BI Visualizations** (for reports & dashboards)
+
+ ### Data Cleaning/Preparation
+
+ In the initial data preparation phase, we performed the following tasks:
+ 1. 
