@@ -19,6 +19,11 @@ In-Out patient Data: The primary dataset used for this Analysis is the ....conta
  In the initial data preparation phase, we performed the following tasks:
  
 -Renaming Columns
+
 -Rearranging Columns
+
 -Appending 2 Tables
--Replacing & trimming values
+
+-Replacing 
+
+-trimming values
